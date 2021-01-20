@@ -20,3 +20,7 @@ PyFin_5: Bollinger bands and how to use them?
 
 Fig3: Bollinger bands upper+lower limit
 
+![4_1](https://user-images.githubusercontent.com/55191934/105215411-401fe500-5b77-11eb-95f0-630257da1173.jpg)
+
+Fig4: How to make decisions based on Bollinger bands
+
