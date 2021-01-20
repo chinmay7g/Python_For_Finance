@@ -18,5 +18,5 @@ PyFin_5: Bollinger bands and how to use them?
 
 ![3_1](https://user-images.githubusercontent.com/55191934/105214283-cfc49400-5b75-11eb-93a4-64850b80a273.jpg)
 
-Fig3: ![3_1](https://user-images.githubusercontent.com/55191934/105214283-cfc49400-5b75-11eb-93a4-64850b80a273.jpg)
+Fig3: Bollinger bands upper+lower limit
 
