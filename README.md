@@ -25,8 +25,8 @@ Fig4: How to make decisions based on Bollinger bands
 
 PyFin_6: It's about the stddev and plotting histograms on cumsum() and etc.
 
-PyFin_7: Most important lesson; for y = beta(x) + alpha ; beta= sensitivity wrt to market and alpha=performance wrt market. Important learning was kurtosis and it's role in analysis.
-Check below figures.
+*PyFin_7*: Most important lesson; for y = beta(x) + alpha ; beta= sensitivity wrt to market and alpha=performance wrt market. Important learning was kurtosis and it's role in analysis.Check below figures.
+
 ![7 1](https://user-images.githubusercontent.com/55191934/105609156-5fb04b00-5dcd-11eb-8e93-e51c13eca8b5.PNG)
 Fig7.1
 
