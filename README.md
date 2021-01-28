@@ -33,4 +33,9 @@ Fig7.1
 ![7 2](https://user-images.githubusercontent.com/55191934/105609207-b9187a00-5dcd-11eb-855b-3cbd176d6123.PNG)
 Fig 7.2
 
+* PyFin_8* : Built an optimizer using the scipy.optimize function from the library which found the global minima for a convex function.
+
+![8 1](https://user-images.githubusercontent.com/55191934/106118258-e5d7e300-6179-11eb-8e46-c2e0a20033c8.PNG)
+Fig 8.1
+
 
